@@ -93,7 +93,7 @@ Due to size limitations, the dataset is hosted externally (Google Drive).
 
 Download the following files from:
 
-`(https://drive.google.com/drive/folders/1ZA5tq3axuyfVS1lWPYu9G4THFnV8BoKH?usp=drive_link)`
+`https://drive.google.com/drive/folders/1ZA5tq3axuyfVS1lWPYu9G4THFnV8BoKH?usp=drive_link`
 
 - `development.csv`
 - `evaluation.csv`
