@@ -118,21 +118,10 @@ python dsl_project_final.py
 
 ---
 
-## 📂 Project Structure
-
-```
-data/                      # Dataset (user must add)
-notebooks/                 # EDA and visualization
-dsl_project_final.py       # Main training & prediction script
-DSL Report.pdf             # Academic report
-housing_predictions.csv    # Model output
-```
-
----
-
 ## ✍️ Authors
 
+- Muhammed Emin Oral - s343124@studenti.polito.it
 - Alican Akkiprik - s349610@studenti.polito.it  
-- Muhammed Emin Oral - s343124@studenti.polito.it  
+
 
 **Politecnico di Torino**
