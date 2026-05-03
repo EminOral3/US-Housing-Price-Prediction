@@ -93,12 +93,12 @@ Due to size limitations, the dataset is hosted externally (Google Drive).
 
 Download the following files from:
 
-`PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE`
+`(https://drive.google.com/drive/folders/1ZA5tq3axuyfVS1lWPYu9G4THFnV8BoKH?usp=drive_link)`
 
 - `development.csv`
 - `evaluation.csv`
 
-Create a `data/` folder in the project root and place the files inside.
+Place the downloaded files directly in the project's root directory (the same folder as dsl_project_final.py).
 
 ---
 
