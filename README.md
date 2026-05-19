@@ -1,6 +1,6 @@
 # 🏠 US Apartment Rental Price Prediction (DSL Project)
 
-This project was developed in the **Data Science and Learning (DSL)** course at Politecnico di Torino. The goal is to predict monthly rental prices of apartments in the United States with minimal error by analyzing listing features.
+This project was developed in the **Data Science Lab (DSL)** course at Politecnico di Torino. The goal is to predict monthly rental prices of apartments in the United States with minimal error by analyzing listing features.
 
 ---
 
